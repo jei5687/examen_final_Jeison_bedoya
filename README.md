@@ -1,19 +1,19 @@
 # examen_final_Jeison_bedoya
 
-taller final crud
+Taller final crud
 
-descargar todos los archivos en una carpeta del escritorio
+Descargar todos los archivos en una carpeta del escritorio
 
-descomprimir node_modules7z
+Descomprimir node_modules7z
 
-unir la carpeta que queda despues de descomprimir con el resto de archivos 
+Unir la carpeta que queda despues de descomprimir con el resto de archivos 
 
-activar apache y mysql en xampp
+Activar apache y mysql en xampp
 
-abrir terminal en visual estudio code 
+Abrir terminal en visual estudio code 
 
-poner el comando npm start
+Poner el comando npm start
 
-usar Ctrl + click izquierdo en el enlace
+Usar Ctrl + click izquierdo en el enlace
 
-y ya tendras tu pagina creada
+Al final ya tendras tu pagina creada
